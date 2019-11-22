@@ -1,5 +1,5 @@
-### How to use DeployBytecode.sol
-* On Remix, deploy `DeployBytecode.sol` on your preferred Ethereum network.
+### How to deploy bytecode to your Ethereum network of choice using Remix
+* On [Remix](https://remix.ethereum.org/), deploy `DeployBytecode.sol` on your preferred Ethereum network.
 * Copy and paste any smart contract's bytecode and deploy it via the `deployBytecode` function.
 * Use a pseudo smart contract or an ABI file to deploy with the `at address` option.
 
